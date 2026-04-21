@@ -15,7 +15,7 @@ void pruebaClaseCoche() {
     c1.setKilometraje(125000);
 
     // Muestra fichas
-    std::cout << c1.obtenerFicha() << std::endl;
+    std::cout << c1.obtenerFicha() << std::endl << std::endl;
     std::cout << c2.obtenerFicha() << std::endl;
 }
 
