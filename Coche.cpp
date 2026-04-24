@@ -21,7 +21,7 @@ void Coche::setMarca(std::string marca) {
 
 void Coche::setModelo(std::string modelo) {
     this->modelo = modelo;
-}g
+}
 
 void Coche::setKilometraje(long kilometraje) {
     this->kilometraje = kilometraje;
