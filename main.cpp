@@ -41,7 +41,7 @@ void pruebaClaseMoto() {
 
 // Prueba de dos objetos Cliente
 void pruebaClaseCliente() {
-    std::cout << std::endl << "--- Prueba de dos objetos Cliente" << std::endl;
+    std::cout << std::endl << "--- Prueba de dos objetos Clie" << std::endl;
 
     // Construccion de objetos
     Cliente cl1("Juan Pérez","juan@email.com","B");
